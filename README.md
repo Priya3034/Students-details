@@ -32,6 +32,6 @@ Copy
 
 Edit
 
-git clone https://github.com/yourusername/student-details-website.git
+git clone https://priya3034.github.io/Students-details/
 
 cd student-details-website
